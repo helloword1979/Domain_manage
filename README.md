@@ -28,5 +28,5 @@
 ```
 
 #### DEMO
-![demo](https://github.com/Smi1e521/Domain_manage/img/demo.jpg)
+![demo](https://raw.githubusercontent.com/Smi1e521/Domain_manage/master/img/demo.png)
 
